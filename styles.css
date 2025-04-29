@@ -117,7 +117,7 @@ body {
 }
 
 .card p {
-    color: #ccc;
+    color: #e6e1e1;
 }
 
 .date {
@@ -224,6 +224,23 @@ body {
     color: #007bff;
 }
 
+.light-mode .name_secondary {
+    color: #000000;
+}
+
+.light-mode .card p {
+    color: #000000;
+}
+
+.light-mode .text_secondary{
+    color: #020202;
+}
+
+.light-mode .hero {
+    background: #ffffff;
+}
+
+
 .light-mode .btn {
     background: #1a1a1a;
     color: #fff;
@@ -231,13 +248,13 @@ body {
 
 .light-mode .btn.secondary {
     border: 2px solid #1a1a1a;
-    color: #fff;
+    color: #121111;
     background: transparent;
 }
 
 .light-mode .footer {
     background: #eaeaea;
-    color: #333;
+    color: #f6f3f3;
 }
 
 .light-mode .social-links a {
